@@ -35,6 +35,14 @@ Data Science With R
 https://www.youtube.com/watch?v=Zi0cfo5CHRM
 https://www.youtube.com/watch?v=zWX5KjhzM-A
 
+Day 1 Python - https://www.youtube.com/watch?v=O39j2DBN2cc&list=PLEiEAq2VkUUINUPH9xn31yGNgUUTr_Ldt&index=1
+Day 2 R - https://www.youtube.com/watch?v=rRaOKJSmjmk&list=PLEiEAq2VkUUINUPH9xn31yGNgUUTr_Ldt&index=2
+Day 3 SQL - https://www.youtube.com/watch?v=ENcm7FNR_9I&list=PLEiEAq2VkUUINUPH9xn31yGNgUUTr_Ldt&index=3
+Day 4 Data Viz - https://www.youtube.com/watch?v=meOsva_3QGE&list=PLEiEAq2VkUUINUPH9xn31yGNgUUTr_Ldt&index=4
+Day 5 ML - https://www.youtube.com/watch?v=kF8t98oK374&list=PLEiEAq2VkUUINUPH9xn31yGNgUUTr_Ldt&index=5
+Day 6 DL/Tensor Flow - https://www.youtube.com/watch?v=LFGbdJH5PB0&list=PLEiEAq2VkUUINUPH9xn31yGNgUUTr_Ldt&index=6
+Day 7 Interview Q&A - https://www.youtube.com/watch?v=EGLw-Oht48E&list=PLEiEAq2VkUUINUPH9xn31yGNgUUTr_Ldt&index=7
+
 
 Multi Course
 
