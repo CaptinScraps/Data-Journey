@@ -2,7 +2,8 @@
 
 Excel Tutorials
 
-Advance Excel Tutorial for 2022 | Advanced Excel Course | Excel Tutorial For Beginners |Simplilearn
+https://www.youtube.com/watch?v=R0plstsPSyQ
+https://www.youtube.com/watch?v=xhFDYKqWlqw
 https://www.youtube.com/watch?v=h_UBLvhszko
 
 
