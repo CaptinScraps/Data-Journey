@@ -1,5 +1,7 @@
 # My personal journey into Data Science
 
+https://www.youtube.com/c/SimplilearnOfficial/videos
+
 Excel Tutorials
 
 https://www.youtube.com/watch?v=R0plstsPSyQ
