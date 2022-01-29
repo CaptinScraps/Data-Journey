@@ -1,6 +1,7 @@
 # My personal journey into Data Science
 
 https://www.youtube.com/c/SimplilearnOfficial/videos
+https://www.simplilearn.com/skillup-free-online-courses
 
 Excel Tutorials
 
