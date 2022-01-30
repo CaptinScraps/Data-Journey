@@ -72,5 +72,12 @@ Day 4 Tableau -  https://www.youtube.com/watch?v=DQStVb_DiHQ
 
 Day 5 Power BI - https://www.youtube.com/watch?v=iigEDtZEDIU 
 
+
+Other fields of study to merge with Data Analysis
+
 Crypto Currency
+
 https://www.youtube.com/watch?v=9qbJNcrTjnQ
+
+Finance
+
